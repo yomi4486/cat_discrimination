@@ -1,0 +1,4 @@
+results/model.h5
+images/*
+__pycache__/*
+temp/*

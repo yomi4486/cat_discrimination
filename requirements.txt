@@ -1,0 +1,6 @@
+fastapi
+uuid
+requests
+numpy
+tensorflow
+werkzeug
